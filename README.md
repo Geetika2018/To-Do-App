@@ -1,7 +1,7 @@
 
 <h1>To Do App</h1>
 
-![Public View of the App] (./src/assets/To-Do-App.PNG)
+![Public View of the App](./src/assets/To-Do-App.PNG)
 
 ## Feature of this App:
 - **Add Task:** Easily add new task to your list, by clicking enter button and also clicking the add button it can be done.
